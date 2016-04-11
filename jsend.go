@@ -1,6 +1,6 @@
 package jsend
 
-// H is hash containing any arbitrary values
+// H is hash containing arbitrary values
 type H map[string]interface{}
 
 // Success JSend response
